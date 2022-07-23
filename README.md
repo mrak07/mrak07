@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Amit Kumar Kharwar</h1>
-<h3 align="center">I am android developer, and I am currently working on Firebase Machine Learning</h3>
+<h3 align="center"> Android Developer, Currently working on Firebase-Machine Learning</h3>
 <img  align="right" width="200" src="https://user-images.githubusercontent.com/60813321/180618537-6ad18cab-6222-4801-9783-72fba77b3f70.gif">
 
 - 🌱 I’m currently learning **Machine Learning**
